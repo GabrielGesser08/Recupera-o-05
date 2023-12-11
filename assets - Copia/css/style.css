@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0  ;
+    box-sizing: border-box;
+}
+
+.left{
+    width: 100rem;
+    height: 100rem;
+    background-color: aqua;
+}
